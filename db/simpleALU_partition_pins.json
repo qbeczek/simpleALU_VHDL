@@ -1,0 +1,157 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "result[0]",
+					"strict" : false
+				},
+				{
+					"name" : "result[1]",
+					"strict" : false
+				},
+				{
+					"name" : "result[2]",
+					"strict" : false
+				},
+				{
+					"name" : "result[3]",
+					"strict" : false
+				},
+				{
+					"name" : "result[4]",
+					"strict" : false
+				},
+				{
+					"name" : "result[5]",
+					"strict" : false
+				},
+				{
+					"name" : "result[6]",
+					"strict" : false
+				},
+				{
+					"name" : "result[7]",
+					"strict" : false
+				},
+				{
+					"name" : "result_9bit[0]",
+					"strict" : false
+				},
+				{
+					"name" : "result_9bit[1]",
+					"strict" : false
+				},
+				{
+					"name" : "result_9bit[2]",
+					"strict" : false
+				},
+				{
+					"name" : "result_9bit[3]",
+					"strict" : false
+				},
+				{
+					"name" : "result_9bit[4]",
+					"strict" : false
+				},
+				{
+					"name" : "result_9bit[5]",
+					"strict" : false
+				},
+				{
+					"name" : "result_9bit[6]",
+					"strict" : false
+				},
+				{
+					"name" : "result_9bit[7]",
+					"strict" : false
+				},
+				{
+					"name" : "result_9bit[8]",
+					"strict" : false
+				},
+				{
+					"name" : "Carryout",
+					"strict" : false
+				},
+				{
+					"name" : "arg2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "arg1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "opcode[2]",
+					"strict" : false
+				},
+				{
+					"name" : "opcode[0]",
+					"strict" : false
+				},
+				{
+					"name" : "opcode[1]",
+					"strict" : false
+				},
+				{
+					"name" : "arg2[7]",
+					"strict" : false
+				},
+				{
+					"name" : "arg1[7]",
+					"strict" : false
+				},
+				{
+					"name" : "arg2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "arg1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "arg2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "arg1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "arg2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "arg1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "arg2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "arg1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "arg2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "arg1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "arg2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "arg1[1]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
